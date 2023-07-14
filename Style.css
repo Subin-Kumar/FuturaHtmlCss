@@ -1,0 +1,23 @@
+h3{
+    background-color: rgb(242, 163, 221);
+    color: rgb(0, 0, 0);
+}
+
+#H1{
+    color: blueviolet;/* font colour*/
+}
+#H2{
+    color: brown;
+}
+.divv{
+    background-color: aquamarine;
+}
+.divv2,h6{
+    background-color: rgb(246, 9, 9);
+}
+h4{
+    color: beige;
+}
+*{
+    background-color: blanchedalmond;
+}
