@@ -1,0 +1,45 @@
+.Title{
+    border-radius: 20px;
+    background-color: #72d90b;
+    height: 120px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Title h1{
+    padding-left: 45%;
+    padding-top: 25px;
+    
+}
+.Title img{
+    width: 50px;
+    margin-left: 715px;
+    
+}
+.cont{
+    color: #72d90b;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.cont img{
+    padding-left: 40%;
+    height: 400px;
+}
+.nav{
+    padding-left: 20px;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: darkgreen;
+}
+.nav a{
+    padding-right: 20px;
+    color: #72d90b;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+}
+.seas{
+    background-image: url(https://i.ytimg.com/vi/z_OVo5iJc50/maxresdefault.jpg);
+    opacity: 0.8;
+    
+
+}
+.seas h3{
+    color: rgb(30, 255, 0);
+}

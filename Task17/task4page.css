@@ -1,0 +1,60 @@
+.main{
+    margin: 30px;
+    width: 500px;
+    
+    
+}
+
+.nav{
+
+    padding-right: 30px;
+    display: flex;
+    flex-direction: row;
+    background-color: rgb(51, 48, 48);
+}
+.hov{
+    padding: 10px;   
+    background-color: rgb(51, 48, 48);
+    color: aliceblue; 
+}
+.hov:hover{
+    padding: 10px;
+    color: rgb(51, 48, 48);
+    background-color: aliceblue;
+}
+.im img{
+    width: 150px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.cont{
+
+    display: flex;
+    background-color: burlywood;
+
+}
+.content{
+    padding-left: 30px;
+}
+.content button{
+    background-color: rgb(191, 125, 4);
+    margin-left: 30px;
+    border-radius: 10px;
+
+}
+.tail{
+    background-color: rgb(51, 48, 48);
+    color: aliceblue; 
+    height: 90px;
+    padding: 10px;
+
+}
+.tail button{
+    background-color: rgb(191, 125, 4);
+    margin-left: 110px;
+    margin-top: 20px;
+    padding: 10px;
+    border-radius: 23px;
+
+}
+
