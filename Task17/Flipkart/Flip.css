@@ -1,0 +1,152 @@
+
+body{
+    background-color: #ece8e8;
+    margin: 0;
+}
+.top{
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 100%;
+    justify-content: space-between;
+    
+    
+}
+
+.top img{
+    height: 70px;
+    margin-left: 10px;
+
+    
+}
+.top input{
+    margin-top: 22px;
+    margin-left: 50px;
+    width: 1000px;
+    height: 25px;
+}
+.but button{
+    margin-top: 10px;
+    margin-left: 30px;
+    width: 70px;
+    height: 50px;
+    background-color: white;
+    border: 0;
+    
+}
+.Scnd{
+    display: flex;
+    margin: 10px;
+    border-radius: 5px;
+    background-color: white;
+    
+}
+.imb{
+
+    padding: 20px;
+    
+}
+.imb img{
+    margin: 5px;
+    padding: 0px;
+    width: 70px;
+    border-radius: 50px;
+}
+.imb h3{
+    margin: 0%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.to,.lcs{
+    
+    background-color: white;
+    margin: 10px;
+    
+}
+.to h1,.lcs h1{
+    margin-left: 20px;
+    padding-top: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+.cc,.lcc{
+    display: flex;
+    justify-content: space-between;
+    
+    
+}
+.card{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    border: 1px solid grey;
+    border-radius: 10px;
+    margin: 10px ;
+    width: 200px;
+    background-color: white;
+}
+.card img{
+    margin: 10px;
+    height: 150px;   
+}
+.card img:hover{
+    transform: scale(1.1);
+    transition: 0.4s;
+}
+.card h4{
+    margin-top: 0%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.ad{
+    display: flex;
+    
+}
+    
+.ad img{
+    
+    padding: 2px;
+
+}
+.tail{
+    background-color: hsl(0, 6%, 12%);
+    height: 320px;
+    display: flex;
+    flex-direction: column;
+}
+.td{
+    display: flex;
+
+}
+
+.tdo{
+    padding: 20px;
+}
+.tdo h5,.tdt p,.tailbar{
+    
+    color: white;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    /* padding-bottom: 4px; */
+    line-height: 10%;
+
+}
+.tdom{
+    display: flex;
+    margin-right: 200px;
+}
+.tdtm{
+    display: flex;
+}
+
+.tdt{
+    padding-top: 12px;
+    padding-right: 20px;
+    
+    
+}
+.tailbar{
+    display: flex;
+    border-top:1px solid #ece8e8;
+    justify-content: space-around;
+
+}
+
