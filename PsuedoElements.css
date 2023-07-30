@@ -1,0 +1,16 @@
+.ps::before{
+    content: "This is before ";
+    color: blue;
+
+}
+.ps::after{
+    content: "This is after ";
+    color: red;
+
+}
+.ps::first-line{
+    font-weight: bold;
+    text-transform: uppercase;
+    color: greenyellow;
+
+}

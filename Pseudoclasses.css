@@ -1,0 +1,17 @@
+h1:hover{
+    color: red;
+}
+input:focus{
+    border: 2px solid greenyellow;
+    outline: none;
+}
+a{
+    text-decoration: none;
+}
+a:visited{
+    color:yellowgreen;
+}
+button:active{
+    background-color: yellow;
+    color: white;
+}
