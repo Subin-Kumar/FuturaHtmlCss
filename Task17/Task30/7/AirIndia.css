@@ -1,6 +1,80 @@
-.rna{
-margin-left: 1080px;
-}
 .navupdn{
+    margin-left: 670px;
+}
+.navup{
+    display: flex;
+    flex-direction: row-reverse;
     
+}
+.navbut{
+    width: 150px;
+}
+.cartop{
+    position: absolute;
+    z-index: index 2;
+    margin-left: 20px;
+    margin-top: -450px;
+}
+.cartop h1,.cartop h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.cc{
+    display: flex;
+    justify-content: center;
+    margin-right: 50px;
+}
+.card{
+    margin: 30px;
+    height: 400px;
+    color: white;
+    background-image: url("https://i.pinimg.com/236x/73/27/b1/7327b14150f01c822e43fee62c46453f--desktop-backgrounds-iphone-wallpaper.jpg") ;   
+}
+.card{
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
+.cb h5 , .cb2 h5,.cb3 h5{
+    margin-left: 10px;
+    margin-top: 230px;
+}
+.cb a,.cb2 a,.cb3 a{
+    margin-top: 10px;
+    margin-left: 50px;
+
+}
+
+.cb h6,.cb2 h6,.cb3 h6{
+    margin-left: 10px;   
+}
+.card2{
+    margin: 30px;
+    height: 400px;
+    color: white;
+    background-position-x: -190px;
+    background-size: 700px;
+    background-image: url("https://imageio.forbes.com/specials-images/imageserve/62d56b9a38b838131187f3c8/0x0.jpg?format=jpg&width=1200") ;   
+}
+.card3{
+    margin: 30px;
+    height: 400px;
+    color: white;
+    background-position-x: -250px;
+    background-size: 700px;
+    background-image: url("https://www.giift.com/wp-content/uploads/2023/04/the-Best-International-Airline-Loyalty-Program-scaled.jpg") ;   
+}
+.ch{
+    margin: 40px;
+}
+.ch h1{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 50px;
+    color: rgb(249, 83, 83);
+    text-align: center;
+}
+.ch h5{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 30px;
+    color: rgb(104, 102, 102);
+    text-align: center;
 }

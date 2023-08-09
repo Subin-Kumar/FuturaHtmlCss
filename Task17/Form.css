@@ -1,9 +1,21 @@
 .reg{
     margin-left: 40%;
-    background-color: rgb(92, 91, 91);
+    background-color: rgb(178, 174, 174);
     padding: 50px;
     width: 500px;
     display: flex;
     flex-direction: column;
-    ali
+    border-radius: 10px;font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+input{
+    border-radius: 5px;
+    height: 25px;
+}
+button{
+    height: 30px;
+    width: 80px;
+    margin-left: 20px;
+    border-radius: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
